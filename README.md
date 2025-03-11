@@ -7,13 +7,13 @@
 Project: insight streamwebsite with complete authentication made using React.js
 +
 ### Documentation
-For detailed documentation, refer to [Project Documentation](https://drive.google.com/drive/folders/1t0gnvH7D-sjVLhV1hSYhhjpTfgHWXtm7?usp=sharing).
+For detailed documentation, refer to [Project Documentation](https://docs.google.com/spreadsheets/d/1R5N6wz0XpV9jlM3Fdx6dXztkbOS4GTXM/edit?usp=drive_link&ouid=110331019407128831951&rtpof=true&sd=true).
 
 ### Documentation
-For detailed project Documentation , refer to [Documentation](https://drive.google.com/file/d/1bW_isYOl3OSa5Gkgy7F_2IGnXbZsulfm/view?usp=sharing).
+For detailed project Documentation , refer to [Documentation]().
 
 ### Demo video
-for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1E9jdqO-apcD5K3zTC0_RC44UezjWutei/view?usp=sharing).
+for Detailed Demo video , refer to [project Demo video](https://drive.google.com/file/d/1Ob2EviH-8ZdXjsNNiBnEGDQzkFV1Dp6V/view?usp=drive_link).
 
 Team members:
 
