@@ -59,8 +59,7 @@ Follow the following steps to get the development environment running.
 * Clone repository from GitHub
 
   ```bash
-  git clone https://github.com/Sairohith25/Insight-Stream.git
-  ```
+  git clone https://github.com/Eswari892/InsightStream.git  ```
 
    _OR USING SSH_
 
