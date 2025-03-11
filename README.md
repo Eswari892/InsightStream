@@ -64,7 +64,7 @@ Follow the following steps to get the development environment running.
    _OR USING SSH_
 
   ```bash
-  git clone git@github.com:Sairohith25/Insight-Stream.git
+  git clone git@github.com:Eswari892/InsightStream.git
   ```
 
 * Install node modules
